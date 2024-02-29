@@ -1,6 +1,7 @@
-# Mounting a GPS/Compass
+# Mounting a Compass (or GNSS/Compass)
 
-GPS/Compasses should be mounted on the frame as far away from other electronics as possible, with the direction marker pointing towards the front of the vehicle.
+External compasses, including combined GNSS/Compass hardware, should be mounted on the frame as far away from other electronics as possible, with the direction marker pointing towards the front of the vehicle.
+This is true for 
 If mounted in this way you can immediately proceed to [compass calibration](../config/compass.md#performing-the-calibration).
 
 The diagram below shows the heading marker on the Pixhawk 4 and compass.
