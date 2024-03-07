@@ -25,7 +25,7 @@ To change the orientation parameters:
 ## Parameter Information
 
 The **SENS_BOARD_ROT** parameter defines the rotation relative to the platform, while the X,Y and Z fine tuning offsets are fixed relative to the board itself.
-What happens is that the fine tuning offsets are added to the `SENS_BOARD_ROT`` angle in order to get the total offset angles for the Yaw, Pitch and Roll orientation of the flight controller.
+What happens is that the fine tuning offsets are added to the `SENS_BOARD_ROT` angle in order to get the total offset angles for the Yaw, Pitch and Roll orientation of the flight controller.
 
 **SENS_BOARD_ROT**
 
