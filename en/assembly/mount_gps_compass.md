@@ -1,6 +1,6 @@
 # Mounting a Compass (or GNSS/Compass)
 
-External compasses, including combined GNSS/Compass hardware, should be mounted on the frame as far away from motor/ESC power lines and other sources of electromagnetic interference as possible.
+External compasses, including combined GNSS/Compass modules (recommended), should be mounted on the frame as far away from motor/ESC power lines and other sources of electromagnetic interference as possible.
 
 On multicopters it is common to mount the compass on a pedestal, while for fixed-wing and VTOL vehicles the compass is usually mounted on a wing.
 
