@@ -6,7 +6,6 @@ The diagram below shows the heading marker on the Pixhawk 4 flight controller an
 
 ![Connect compass/GPS to Pixhawk 4](../../assets/flight_controller/pixhawk4/pixhawk4_compass_gps.jpg)
 
-
 ## Compass Orientation
 
 If you can't mount it towards the front of the vehicle then it can be mounted in any of the standard MAVLink orientations defined in [MAV_SENSOR_ORIENTATION](https://mavlink.io/en/messages/common.html#MAV_SENSOR_ORIENTATION).
