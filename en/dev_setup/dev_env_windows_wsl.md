@@ -125,7 +125,7 @@ Alternatively, after entering `exit` you can just close the prompt.
 
 ### Install PX4 Toolchain
 
-Next we download the PX4 source code within the WSL2 environment, and use the normal _Ubuntu installer script_ to to set up the developer environment.
+Next we download the PX4 source code within the WSL2 environment, and use the normal _Ubuntu installer script_ to set up the developer environment.
 This will install the toolchain for Gazebo Classic simulation, JMAVSim simulation and Pixhawk/NuttX hardware.
 
 To install the development toolchain:
